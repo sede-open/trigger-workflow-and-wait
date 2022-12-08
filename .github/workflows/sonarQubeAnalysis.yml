@@ -3,7 +3,8 @@ on:
   
   push:
     branches:
-      - main
+      - main 
+      - master
 
   pull_request:
       branches: [ Sandbox/QA/QA4C, Staging, main ]
