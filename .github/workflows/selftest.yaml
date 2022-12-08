@@ -14,4 +14,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Do nothing
-      run: sleep 30
+      run: sleep 20
